@@ -1,1 +1,128 @@
-{"_neuronCache_errors":{"README":{"tag":"ZettelIssue_Error","contents":{"tag":"ZettelError_AmbiguousID","contents":["./static/README.md","./README.md"]}},"index":{"tag":"ZettelIssue_MissingLinks","contents":["index",["README"]]}},"_neuronCache_graph":{"adjacencyMap":{"static":{},"faq":{},"index":{"faq":["Folgezettel",[]]},"SECURITY":{}},"vertices":{"static":{"zettelPluginData":[[["PluginZettelData_DirTree",[]],{"_dirZettel_childrenTag":"root/static","_dirZettel_dirParent":"index","_dirZettel_tags":["root"]}]],"zettelTags":["root"],"zettelDate":null,"zettelID":"static","zettelUnlisted":false,"zettelContent":null,"zettelQueries":[[["ZettelQuery_ZettelsByTag",[{"tag":"TagQuery_Or","contents":["root/static"]},"Folgezettel",{"zettelsViewLinkView":"LinkView_Default","zettelsViewLimit":null,"zettelsViewGroupByTag":false}]],[]]],"zettelSlug":"static","zettelPath":"./static","zettelTitle":"static/","zettelTitleInBody":true},"faq":{"zettelPluginData":[],"zettelTags":["other","root"],"zettelDate":null,"zettelID":"faq","zettelUnlisted":false,"zettelContent":null,"zettelQueries":[],"zettelSlug":"faq","zettelPath":"./faq.md","zettelTitle":"FAQ","zettelTitleInBody":true},"index":{"zettelPluginData":[],"zettelTags":["home"],"zettelDate":null,"zettelID":"index","zettelUnlisted":false,"zettelContent":null,"zettelQueries":[[["ZettelQuery_ZettelByID",["README","Folgezettel"]],[]],[["ZettelQuery_ZettelsByTag",[{"tag":"TagQuery_Or","contents":["other"]},"Folgezettel",{"zettelsViewLinkView":"LinkView_Default","zettelsViewLimit":null,"zettelsViewGroupByTag":false}]],[]]],"zettelSlug":"index","zettelPath":"./index.md","zettelTitle":"Neuron Template","zettelTitleInBody":true},"SECURITY":{"zettelPluginData":[],"zettelTags":["root"],"zettelDate":null,"zettelID":"SECURITY","zettelUnlisted":false,"zettelContent":null,"zettelQueries":[],"zettelSlug":"SECURITY","zettelPath":"./SECURITY.md","zettelTitle":"Security Policy","zettelTitleInBody":true}}},"_neuronCache_config":{"editUrl":"https://reedhhw.github.io/mynotes/","plugins":["neuronignore","dirtree"],"siteBaseUrl":"https://reedhhw.github.io/mynotes/","author":"reedhhw","siteTitle":"MyNotes","theme":"teal"},"_neuronCache_neuronVersion":"1.9.3.0"}
+{
+  "_neuronCache_errors": {
+    "README": {
+      "tag": "ZettelIssue_Error",
+      "contents": {
+        "tag": "ZettelError_AmbiguousID",
+        "contents": ["./static/README.md", "./README.md"]
+      }
+    },
+    "index": {
+      "tag": "ZettelIssue_MissingLinks",
+      "contents": ["index", ["README"]]
+    }
+  },
+  "_neuronCache_graph": {
+    "adjacencyMap": {
+      "static": {},
+      "faq": {},
+      "index": { "faq": ["Folgezettel", []] },
+      "SECURITY": {}
+    },
+    "vertices": {
+      "static": {
+        "zettelPluginData": [
+          [
+            ["PluginZettelData_DirTree", []],
+            {
+              "_dirZettel_childrenTag": "root/static",
+              "_dirZettel_dirParent": "index",
+              "_dirZettel_tags": ["root"]
+            }
+          ]
+        ],
+        "zettelTags": ["root"],
+        "zettelDate": null,
+        "zettelID": "static",
+        "zettelUnlisted": false,
+        "zettelContent": null,
+        "zettelQueries": [
+          [
+            [
+              "ZettelQuery_ZettelsByTag",
+              [
+                { "tag": "TagQuery_Or", "contents": ["root/static"] },
+                "Folgezettel",
+                {
+                  "zettelsViewLinkView": "LinkView_Default",
+                  "zettelsViewLimit": null,
+                  "zettelsViewGroupByTag": false
+                }
+              ]
+            ],
+            []
+          ]
+        ],
+        "zettelSlug": "static",
+        "zettelPath": "./static",
+        "zettelTitle": "static/",
+        "zettelTitleInBody": true
+      },
+      "faq": {
+        "zettelPluginData": [],
+        "zettelTags": ["other", "root"],
+        "zettelDate": null,
+        "zettelID": "faq",
+        "zettelUnlisted": false,
+        "zettelContent": null,
+        "zettelQueries": [],
+        "zettelSlug": "faq",
+        "zettelPath": "./faq.md",
+        "zettelTitle": "FAQ",
+        "zettelTitleInBody": true
+      },
+      "index": {
+        "zettelPluginData": [],
+        "zettelTags": ["home"],
+        "zettelDate": null,
+        "zettelID": "index",
+        "zettelUnlisted": false,
+        "zettelContent": null,
+        "zettelQueries": [
+          [["ZettelQuery_ZettelByID", ["README", "Folgezettel"]], []],
+          [
+            [
+              "ZettelQuery_ZettelsByTag",
+              [
+                { "tag": "TagQuery_Or", "contents": ["other"] },
+                "Folgezettel",
+                {
+                  "zettelsViewLinkView": "LinkView_Default",
+                  "zettelsViewLimit": null,
+                  "zettelsViewGroupByTag": false
+                }
+              ]
+            ],
+            []
+          ]
+        ],
+        "zettelSlug": "index",
+        "zettelPath": "./index.md",
+        "zettelTitle": "Neuron Template",
+        "zettelTitleInBody": true
+      },
+      "SECURITY": {
+        "zettelPluginData": [],
+        "zettelTags": ["root"],
+        "zettelDate": null,
+        "zettelID": "SECURITY",
+        "zettelUnlisted": false,
+        "zettelContent": null,
+        "zettelQueries": [],
+        "zettelSlug": "SECURITY",
+        "zettelPath": "./SECURITY.md",
+        "zettelTitle": "Security Policy",
+        "zettelTitleInBody": true
+      }
+    }
+  },
+  "_neuronCache_config": {
+    "editUrl": "https://reedhhw.github.io/mynotes/",
+    "plugins": ["neuronignore", "dirtree"],
+    "siteBaseUrl": "https://reedhhw.github.io/mynotes/",
+    "author": "reedhhw",
+    "siteTitle": "MyNotes",
+    "theme": "teal"
+  },
+  "_neuronCache_neuronVersion": "1.9.3.0"
+}
