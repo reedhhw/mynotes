@@ -1,3 +1,6 @@
+---
+tags: [other]
+---
 # Security Policy
 
 ## Supported Versions
