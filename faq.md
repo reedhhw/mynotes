@@ -1,5 +1,5 @@
 ---
-tags: [other][[
+tags: [other]
 ---
 
 # FAQ
