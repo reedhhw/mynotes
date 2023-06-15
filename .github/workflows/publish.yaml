@@ -8,7 +8,7 @@ jobs:
   neuron:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Download neuron
       run: |
         curl --silent https://api.github.com/repos/srid/neuron/actions/artifacts \
