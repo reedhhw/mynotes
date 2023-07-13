@@ -61,7 +61,7 @@ awesome
 2. [ ] Cook
 <!-- --------------- -->
 ## Links
-[Link](https://duckduckgo.com/)
+[DuckDuckGo](https://duckduckgo.com/)
 [[faq.md]](faq.md) Use %20 for spaces!
 <!-- --------------- -->
 ## Tables
