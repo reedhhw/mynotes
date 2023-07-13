@@ -154,7 +154,7 @@ Use one of these qualifiers to select the icon and the block color: abstract, su
 This Markdown reference file was created for the [Markor](https://github.com/gsantner/markor) project by [Gregor Santner](gsantner AT mailbox DOT org) and is licensed [Creative Commons Zero 1.0](https://creativecommons.org/publicdomain/zero/1.0/legalcode) (public domain). File revision 4.
 ------------------
 
-#pinned
+
 ---
 
 Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
