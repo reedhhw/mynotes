@@ -2,7 +2,7 @@
 date: 2023-03-27T02:29
 ---
 
-# Markdown Reference
+# Markor Markdown Reference
 Automatically generate _table of contents_ by checking the option here: `Settings > Format > Markdown`.
 ## H2 Header
 ### H3 header
