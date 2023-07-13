@@ -62,7 +62,7 @@ awesome
 <!-- --------------- -->
 ## Links
 [Link](https://duckduckgo.com/)
-[File in same folder as the document.](markor-markdown-reference.md) Use %20 for spaces!
+[File in same folder as the document.](faq.md) Use %20 for spaces!
 <!-- --------------- -->
 ## Tables
 | Left aligned | Middle aligned | Right aligned |
