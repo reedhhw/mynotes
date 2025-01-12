@@ -62,7 +62,7 @@ awesome
 <!-- --------------- -->
 ## Links
 [DuckDuckGo](https://duckduckgo.com/)
-[[MarkdownSample.md]](Sample) Use %20 for spaces!
+[[MarkdownSample]](MarkdownSample) Use %20 for spaces!
 <!-- --------------- -->
 ## Tables
 | Left aligned | Middle aligned | Right aligned |
